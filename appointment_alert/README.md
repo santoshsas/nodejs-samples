@@ -1,0 +1,1 @@
+This is cron job sample which checks for appointments periodically in specific locations provided in config.js file in state configured by hitting API specified in url.
