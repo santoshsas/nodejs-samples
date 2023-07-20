@@ -1,3 +1,5 @@
 .DS_Store
 appointment_alert/.vscode/launch.json
 appointment_alert/node_modules/*
+.vscode/launch.json
+appointment_alert/config.js.local
