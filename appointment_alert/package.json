@@ -1,0 +1,21 @@
+{
+  "name": "appointment_cron",
+  "version": "1.0.0",
+  "description": "This will look for appointments in specified locations and alert via email if appointment avaliable in those locations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "appointment",
+    "finder",
+    "ASC"
+  ],
+  "author": "santosh.fullstack@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.4.0",
+    "node-cron": "^3.0.2"
+  }
+}
